@@ -1,0 +1,9 @@
+#login-form {
+  margin-top: 3rem;
+  width: 100%;
+}
+
+mat-form-field,
+button[type="submit"] {
+  width: 300px;
+}
